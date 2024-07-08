@@ -1,75 +1,32 @@
-# Nuxt 3 Minimal Starter
+# My Resume
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This project is a personal job resume website built with Nuxt3. It showcases my professional experience, skills, and portfolio.
 
-## Setup
+## Getting Started
 
-Make sure to install the dependencies:
+### Prerequisites
 
-```bash
-# npm
-npm install
+Ensure you have the following installed on your machine:
+- Node.js (v16 or later)
+- npm or yarn
 
-# pnpm
-pnpm install
+### Installation
 
-# yarn
-yarn install
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/EsiCamp/my-resume
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd my-resume
+    ```
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
 
-# bun
-bun install
-```
+### Development
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+To start the development server, run:
+```sh
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
