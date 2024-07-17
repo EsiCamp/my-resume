@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "IRANSansWeb";
+  font-display: swap;
+  src: url("../fonts/IRANSansWeb.woff2") format("woff2");
+}
+
+html,
+body {
+  font-family: "IRANSansWeb", sans-serif;
+}

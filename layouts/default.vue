@@ -1,5 +1,5 @@
 <template>
-  <Html dir="ltr" lang="en-US">
+  <Html dir="rtl" lang="fa-IR">
     <Body>
       <StructureHeader />
       <main>
